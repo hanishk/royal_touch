@@ -1,0 +1,63 @@
+name: royaltouch
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.2+12
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
+  
+  fluro: ^1.7.3 
+  bloc: ^6.1.0
+  flutter_bloc: ^6.0.6
+  either_option: ^1.0.6
+  intl: ^0.16.1
+  timezone: ^0.5.9
+  http: ^0.12.2
+  googleapis: ^0.56.1
+  googleapis_auth: ^0.2.12
+  flutter_inner_drawer: ^0.5.7+2
+  square_in_app_payments: ^1.5.1
+  flushbar: ^1.10.4
+  url_launcher: ^5.7.10
+  shared_preferences: ^0.5.12
+  lottie: ^0.7.0+1
+  youtube_player_flutter: ^7.0.0+7
+  google_fonts: ^1.0.0
+
+  # Firebase dependencies
+  firebase_remote_config: 
+  firebase_core: ^0.5.0+1
+  cloud_firestore: ^0.14.1+3
+  firebase_auth: ^0.18.1+2
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/lottie/
+    
+  fonts:
+  - family: Lato
+    fonts:
+      - asset: assets/fonts/Lato-Thin.ttf
+        weight: 100
+      - asset: assets/fonts/Lato-Thin.ttf
+        weight: 200
+      - asset: assets/fonts/Lato-Light.ttf
+        weight: 300
+      - asset: assets/fonts/Lato-Regular.ttf
+        weight: 400
+      - asset: assets/fonts/Lato-Bold.ttf
+        weight: 700
+      - asset: assets/fonts/Lato-Black.ttf
+        weight: 900

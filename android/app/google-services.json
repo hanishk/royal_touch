@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855275433649",
+    "firebase_url": "https://royal-touch-74dd7.firebaseio.com",
+    "project_id": "royal-touch-74dd7",
+    "storage_bucket": "royal-touch-74dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855275433649:android:a7730d771a39e610f17c90",
+        "android_client_info": {
+          "package_name": "com.royaltouch.carwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855275433649-bo52re1ef3qqieutr2uip8fnap1dtqds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.royaltouch.carwash",
+            "certificate_hash": "07c6e0662e868ef2780c12e0e85f6197f672bdf5"
+          }
+        },
+        {
+          "client_id": "855275433649-q5vvb6j2km62ngmthbhhb0ve49e7cs19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJII5e8SR9LrJjBl_EQMd5dl5bSYMFKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855275433649-q5vvb6j2km62ngmthbhhb0ve49e7cs19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
